@@ -76,7 +76,7 @@ export async function getStaticProps() {
   const sections = [
     {
       classes: {
-        containerClasses: 'max-w-screen-xl mx-auto relative mb-5 lg:mb-20 mt-5 lg:mt-10 p-5 lg:p-0',
+        containerClasses: 'max-w-screen-xl mx-auto relative mb-5 lg:mb-20 mt-5 lg:mt-10 p-5',
         olClasses: 'grid grid-cols-1 sm:grid-cols-12 gap-5 md:gap-10',
         imageClasses: 'h-52'
       },
@@ -128,7 +128,7 @@ export async function getStaticProps() {
     },
     {
       classes: {
-        containerClasses: 'max-w-screen-xl mx-auto relative my-5 lg:my-20 p-5 lg:p-0',
+        containerClasses: 'max-w-screen-xl mx-auto relative my-5 lg:my-20 p-5',
         olClasses: 'grid grid-cols-1 sm:grid-cols-12 gap-5 md:gap-10',
         imageClasses: 'h-36'
       },
@@ -159,7 +159,7 @@ export async function getStaticProps() {
     },
     {
       classes: {
-        containerClasses: 'max-w-screen-xl mx-auto relative my-5 lg:my-20 p-5 lg:p-0',
+        containerClasses: 'max-w-screen-xl mx-auto relative my-5 lg:my-20 p-5',
         olClasses: 'grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-5 md:gap-10 mb-10',
         imageClasses: 'h-52'
       },
@@ -199,7 +199,7 @@ export async function getStaticProps() {
     },
     {
       classes: {
-        containerClasses: 'max-w-screen-xl mx-auto relative my-5 lg:my-20 p-5 lg:p-0',
+        containerClasses: 'max-w-screen-xl mx-auto relative my-5 lg:my-20 p-5',
         olClasses: 'grid grid-cols-1 sm:grid-cols-12 gap-5 md:gap-10 mb-10',
         imageClasses: 'h-52'
       },
@@ -239,7 +239,7 @@ export async function getStaticProps() {
     },
     {
       classes: {
-        containerClasses: 'max-w-screen-xl mx-auto relative my-5 lg:my-20 p-5 lg:p-0',
+        containerClasses: 'max-w-screen-xl mx-auto relative my-5 lg:my-20 p-5',
         olClasses: 'grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-5 md:gap-10 mb-10',
         imageClasses: 'h-48'
       },
