@@ -7,5 +7,8 @@ module.exports = withPWA({
   },
   images: {
     domains: ['reporterly.net', 'wp.en.aleteia.org', 'www.etilaatroz.com']
+  },
+  env: {
+    NEXT_PUBLIC_SITE_URL: 'https://aleteia.org/wp-json/wp/v2'
   }
 })
